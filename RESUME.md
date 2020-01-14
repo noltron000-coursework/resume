@@ -28,12 +28,25 @@ Technologies Used:
 ## Technical Skills
 - Git
 - GitHub
-- Python3
+- GitKraken
 - HTML5 (hyper-text markup language)
 - CSS3 (cascading style sheet)
 - JS/ES6 (JavaScript/ECMAScript)
 - ESLint
+- React
+- React Native
+- SASS
+- node.js
+- npm (node package manager)
+- Python3
+- Flask
+- Jupyter Notebooks
+- Keras
+- Markdown
+- Solidity
+- SQL
 
 ## Special Activities
-- Hosted "Lightning Talks"
+- Hosted "Lightning Talks" &mdash; mock TED talk speaking sessions
 - Head of Dungeons &amp; Dragons Club
+- Soldering Workshop
