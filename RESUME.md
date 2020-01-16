@@ -3,7 +3,7 @@
 - **Phone:** (216)-310-6412
 - **Email:** nolan.kovacik@students.makeschool.com
 - **Website:** noltron000.github.com/identify
-- **Github:** https://github.com/noltron000
+- **Github:** github.com/noltron000
 - **LinkedIn:** linkedin.com/in/noltron000
 
 ## Education
@@ -40,24 +40,19 @@
 ```python
 skill_set = {
 	"Git",
-	"GitHub",
-	"GitKraken",
 	"Python3",
 	"HTML5",  # (Hyper-Text Markup Language)
 	"CSS3",  # (Cascading Style Sheet)
 	"JS/ES6",  # (JavaScript/ECMAScript)
+	"C#",
+	"TypeScript",
 	"ESLint",
 	"React.js",
 	"Node.js",
-	"TypeScript",
-	"SASS/SCSS",
+	"SASS/SCSS",  # (Syntactically Awesome Style Sheet)
 	"Jest",
-	"Mocha/Chai",
 	"MongoDB",
-	"C#",
-	"Markdown",
 	"Travis CI",
-	"White-Boarding",
 }
 ```
 
