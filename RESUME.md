@@ -21,14 +21,24 @@
 ### "How I Roll" Progressive Web App
 *Technologies: React.js, CSS 3, Lighthouse*
 - Live: https://how-i-roll.netlify.com/
+- This is a dice-roller app.
+- Scores 100 points on Google's Lighthouse Scorekeeper.
+- This Progressive Web App can masquerade as a native phone app.
+- Shake your phone to roll dice.
 
 ### Article on Cartesian Products
 *Technologies: Python 3, Linear Algebra*
 - Read More: https://medium.com/@noltron000/
+- Cartesian Product calculations are used in 3D-geometry.
+- There is a cart_prod function written within the article.
 
 ### "Crystal Gem API" Web App
 *Technologies: MongoDB, HTML 5, JavaScript ES6*
 - Live: https://crystal-gem-api.herokuapp.com/
+- Users can CRUD two resources, which interact with one another.
+	- CRUD stands for Create, Read, Update, Delete.
+- Utilizes the MVC structure for Backend Development.
+	- MVC stands for Model, View, Controller.
 
 <!--
 ### "Ident-O-Fire" Jupyter Notebook
