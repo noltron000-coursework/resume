@@ -69,3 +69,9 @@ skill_set = {
 ## Special Activities
 - Hosted "Lightning Talks"; a TED talk-esque speaking activity.
 - Hosted the Dungeons &amp; Dragons Club at Make School.
+
+<style>
+p {
+	color: red;
+}
+</style>
