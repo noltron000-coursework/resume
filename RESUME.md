@@ -30,11 +30,37 @@
 *Technologies: MongoDB, HTML 5, JavaScript ES6*
 - Live: https://crystal-gem-api.herokuapp.com/
 
+<!--
 ### "Ident-O-Fire" Jupyter Notebook
 *Technologies: Keras, NumPy, Neural Networks*
 - Read More: https://github.com/noltron000/ident-o-fire/
+--->
 
+## Technical Skill Set
+```python
+skill_set = {
+	"Git",
+	"GitHub",
+	"GitKraken",
+	"Python3",
+	"HTML5",  # (Hyper-Text Markup Language)
+	"CSS3",  # (Cascading Style Sheet)
+	"JS/ES6",  # (JavaScript/ECMAScript)
+	"ESLint",
+	"React.js",
+	"Node.js",
+	"TypeScript",
+	"SASS/SCSS",
+	"Jest",
+	"Mocha/Chai",
+	"MongoDB",
+	"C#",
+	"Markdown",
+	"Travis CI",
+	"White-Boarding",
+}
+```
 
-## Technical Skills
-## Technical Projects
 ## Special Activities
+- Hosted "Lightning Talks"; a TED talk-esque speaking activity.
+- Hosted the Dungeons &amp; Dragons Club at Make School.
