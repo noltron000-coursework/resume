@@ -71,7 +71,8 @@ skill_set = {
 - Hosted the Dungeons &amp; Dragons Club at Make School.
 
 <style>
-p {
-	color: red;
+* {
+	margin: 0;
+	padding: 0;
 }
 </style>
